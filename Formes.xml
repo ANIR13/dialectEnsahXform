@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formes>
+    <Caree>
+        <x>221</x>
+        <y>253</y>
+        <largeur>200</largeur>
+    </Caree>
+    <Caree>
+        <x>482</x>
+        <y>232</y>
+        <largeur>200</largeur>
+    </Caree>
+    <Triangle>
+        <x>0</x>
+        <y>0</y>
+    </Triangle>
+    <Cercle>
+        <x>338</x>
+        <y>292</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>338</x>
+        <y>292</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>538</x>
+        <y>409</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>538</x>
+        <y>409</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>287</x>
+        <y>503</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Cercle>
+        <x>183</x>
+        <y>392</y>
+        <rayon>133</rayon>
+    </Cercle>
+    <Triangle>
+        <x>0</x>
+        <y>0</y>
+    </Triangle>
+    <Ligne>
+        <x>577</x>
+        <y>449</y>
+    </Ligne>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="caree">
+        <x>221</x>
+        <y>253</y>
+        <largeur>200</largeur>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="caree">
+        <x>482</x>
+        <y>232</y>
+        <largeur>200</largeur>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="triangle">
+        <x>0</x>
+        <y>0</y>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>338</x>
+        <y>292</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>338</x>
+        <y>292</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>265</x>
+        <y>145</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>538</x>
+        <y>409</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>538</x>
+        <y>409</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>287</x>
+        <y>503</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cercle">
+        <x>183</x>
+        <y>392</y>
+        <rayon>133</rayon>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="triangle">
+        <x>0</x>
+        <y>0</y>
+    </formes>
+    <formes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ligne">
+        <x>577</x>
+        <y>449</y>
+    </formes>
+</formes>
