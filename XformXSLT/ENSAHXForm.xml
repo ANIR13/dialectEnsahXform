@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="ENSAHXForm.xsl" type="text/xsl" ?>
+<FormGra>
+<circle>
+  <rayon>60</rayon>
+   <centreX>70</centreX>
+    <centreY>80</centreY>
+   <border>orange</border>
+   <color>black</color>
+</circle>
+
+<line>
+  <positionX>59</positionX>
+   <positionY>10</positionY>
+     <positionX2>19</positionX2>
+   <positionY2>10</positionY2>
+      <color>black</color>
+</line>
+<rectangle>
+  <height>50</height>
+  <width>100</width>
+  <positionX>100</positionX>
+   <positionY>10</positionY>
+   <border>yellow</border>
+   <color>green</color>
+</rectangle>
+
+<rectangle>
+  <height>50</height>
+  <width>100</width>
+  <positionX>10</positionX>
+   <positionY>100</positionY>
+   <border>black</border>
+   <color>red</color>
+</rectangle>
+
+<circle>
+  <rayon>30</rayon>
+   <centreX>100</centreX>
+    <centreY>200</centreY>
+   <border>yellow</border>
+   <color>green</color>
+</circle>
+<polygon>
+  <X>0</X>
+  <X1>0</X1>
+  <X2>40</X2>
+  <Y>50</Y>
+    <w1>3</w1>
+	  <Y2>30</Y2>
+   <border>black</border>
+     <color>green</color>
+</polygon>
+<circle>
+  <rayon>30</rayon>
+   <centreX>50</centreX>
+    <centreY>200</centreY>
+   <border>black</border>
+   <color>white</color>
+</circle>
+</FormGra>
